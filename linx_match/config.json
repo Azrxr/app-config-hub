@@ -7,44 +7,69 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_end": "23:00",
-      "is_active": false,
       "campaign_id": "ad_01",
-      "schedule_start": "00:06",
       "weight": 50,
-      "open_target_in": "internal"
+      "is_active": false,
+      "schedule_start": "00:06",
+      "open_target_in": "internal",
+      "schedule_end": "23:00",
+      "title": "My Porto",
+      "ad_type": "webview",
+      "media_url": "https://azrxr.my.id",
+      "target_url": "https://azrxr.my.id",
+      "button_text": "ini web"
     },
     {
-      "weight": 50,
+      "schedule_end": "23:59",
       "open_target_in": "internal",
       "campaign_id": "GPlHWmwRoAaJguf2hpTZ",
-      "schedule_start": "00:00",
-      "schedule_end": "23:59",
-      "is_active": false
-    },
-    {
-      "schedule_end": "23:59",
       "is_active": false,
-      "campaign_id": "PMD63KUqhFRRYptkBU7J",
       "schedule_start": "00:00",
       "weight": 50,
-      "open_target_in": "internal"
+      "title": "ad video",
+      "ad_type": "video",
+      "media_url": "https://res.cloudinary.com/drzenm6hk/video/upload/v1774979461/samples/dance-2.mp4",
+      "target_url": "https://azrxr.my.id",
+      "button_text": "ini video"
     },
     {
-      "is_active": true,
       "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "campaign_id": "PMD63KUqhFRRYptkBU7J",
+      "weight": 50,
       "schedule_start": "00:00",
+      "is_active": false,
+      "title": "ad foto",
+      "ad_type": "image",
+      "media_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNB70qslYb8iZ7q_czloDGXHIcWYvOXu1HA&s",
+      "target_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNB70qslYb8iZ7q_czloDGXHIcWYvOXu1HA&s",
+      "button_text": "ini image"
+    },
+    {
+      "open_target_in": "external",
+      "schedule_end": "23:59",
       "campaign_id": "6Vqofq8eGbTZODCggUCA",
       "weight": 50,
-      "open_target_in": "external"
+      "is_active": true,
+      "schedule_start": "00:00",
+      "title": "namanya juga coba",
+      "ad_type": "image",
+      "media_url": "https://raja700p.it.com/img/toto-togel-4d-raja700.jpg",
+      "target_url": "https://loginraja700.com/",
+      "button_text": "Daftar Sekarang"
     },
     {
-      "campaign_id": "eCv1yVyD83ZbSWlADyvj",
-      "schedule_start": "00:00",
-      "open_target_in": "internal",
       "weight": 50,
       "is_active": true,
-      "schedule_end": "23:59"
+      "schedule_start": "00:00",
+      "campaign_id": "eCv1yVyD83ZbSWlADyvj",
+      "open_target_in": "internal",
+      "schedule_end": "23:59",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
     }
   ],
   "event_sdk": {
@@ -52,6 +77,6 @@
     "app_id": "com.azrxtech.linx_match",
     "apple_id": "",
     "tiktok_id": "7651025918617616391",
-    "stage": "sandbox"
+    "stage": "production"
   }
 }
