@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 6,
   "trigger_strategy": "after_clicks",
@@ -78,7 +78,7 @@
     "android_tiktok_id": "7651025918617616391",
     "apple_id": "apple.test",
     "apple_tiktok_id": "test appl",
-    "stage": "sandbox",
+    "stage": "production",
     "tiktok_id": "7651025918617616391",
     "app_id": "com.azrxtech.linx_match"
   }
