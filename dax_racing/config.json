@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "is_active": false,
-      "campaign_id": "6Vqofq8eGbTZODCggUCA",
+      "schedule_end": "23:59",
       "schedule_start": "00:00",
       "open_target_in": "internal",
       "weight": 50,
-      "schedule_end": "23:59",
+      "campaign_id": "6Vqofq8eGbTZODCggUCA",
+      "is_active": false,
       "title": "namanya juga coba",
       "ad_type": "image",
       "media_url": "https://raja700p.it.com/img/toto-togel-4d-raja700.jpg",
@@ -20,12 +20,12 @@
       "button_text": "Daftar Sekarang"
     },
     {
-      "weight": 50,
       "schedule_end": "23:59",
+      "is_active": true,
+      "weight": 50,
+      "campaign_id": "ad_01",
       "open_target_in": "external",
       "schedule_start": "00:00",
-      "campaign_id": "ad_01",
-      "is_active": true,
       "title": "My Porto",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id",
@@ -33,12 +33,12 @@
       "button_text": "ini web"
     },
     {
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "schedule_start": "00:00",
       "is_active": false,
       "campaign_id": "GPlHWmwRoAaJguf2hpTZ",
-      "schedule_start": "00:00",
-      "open_target_in": "internal",
       "weight": 50,
-      "schedule_end": "23:59",
       "title": "ad video",
       "ad_type": "video",
       "media_url": "https://res.cloudinary.com/drzenm6hk/video/upload/v1774979461/samples/dance-2.mp4",
@@ -48,8 +48,8 @@
   ],
   "event_sdk": {
     "is_active": true,
-    "android_id": "com.azrxtech.dax69",
-    "android_tiktok_id": "tiktok andro",
+    "android_id": "com.azrxtech.daxracing",
+    "android_tiktok_id": "7651025918617616391",
     "apple_id": "apple.dax69",
     "apple_tiktok_id": "tiktok apple",
     "stage": "sandbox"
