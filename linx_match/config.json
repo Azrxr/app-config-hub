@@ -9,7 +9,7 @@
     {
       "schedule_start": "00:06",
       "campaign_id": "ad_01",
-      "open_target_in": "external",
+      "open_target_in": "internal",
       "schedule_end": "23:59",
       "is_active": true,
       "weight": 50,
