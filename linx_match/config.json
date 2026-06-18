@@ -7,11 +7,11 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_start": "00:06",
-      "campaign_id": "ad_01",
       "open_target_in": "internal",
+      "campaign_id": "ad_01",
+      "schedule_start": "00:06",
+      "is_active": false,
       "schedule_end": "23:59",
-      "is_active": true,
       "weight": 50,
       "title": "My Porto",
       "ad_type": "webview",
@@ -20,12 +20,12 @@
       "button_text": "ini web"
     },
     {
+      "campaign_id": "GPlHWmwRoAaJguf2hpTZ",
+      "open_target_in": "internal",
+      "weight": 50,
+      "schedule_start": "00:00",
       "schedule_end": "23:59",
       "is_active": false,
-      "open_target_in": "internal",
-      "schedule_start": "00:00",
-      "campaign_id": "GPlHWmwRoAaJguf2hpTZ",
-      "weight": 50,
       "title": "ad video",
       "ad_type": "video",
       "media_url": "https://res.cloudinary.com/drzenm6hk/video/upload/v1774979461/samples/dance-2.mp4",
@@ -33,12 +33,12 @@
       "button_text": "ini video"
     },
     {
+      "weight": 50,
       "schedule_start": "00:00",
-      "open_target_in": "internal",
-      "campaign_id": "PMD63KUqhFRRYptkBU7J",
       "is_active": false,
       "schedule_end": "23:59",
-      "weight": 50,
+      "campaign_id": "PMD63KUqhFRRYptkBU7J",
+      "open_target_in": "internal",
       "title": "ad foto",
       "ad_type": "image",
       "media_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNB70qslYb8iZ7q_czloDGXHIcWYvOXu1HA&s",
@@ -46,11 +46,11 @@
       "button_text": "ini image"
     },
     {
-      "campaign_id": "6Vqofq8eGbTZODCggUCA",
-      "schedule_start": "00:00",
       "open_target_in": "external",
-      "is_active": false,
+      "campaign_id": "6Vqofq8eGbTZODCggUCA",
       "schedule_end": "23:59",
+      "is_active": false,
+      "schedule_start": "00:00",
       "weight": 50,
       "title": "namanya juga coba",
       "ad_type": "image",
@@ -60,11 +60,11 @@
     },
     {
       "weight": 50,
+      "schedule_start": "00:00",
       "schedule_end": "23:59",
       "is_active": true,
-      "open_target_in": "internal",
       "campaign_id": "eCv1yVyD83ZbSWlADyvj",
-      "schedule_start": "00:00",
+      "open_target_in": "internal",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -79,7 +79,7 @@
     "apple_id": "apple.test",
     "apple_tiktok_id": "test appl",
     "stage": "production",
-    "tiktok_id": "7651025918617616391",
-    "app_id": "com.azrxtech.linx_match"
+    "app_id": "com.azrxtech.linx_match",
+    "tiktok_id": "7651025918617616391"
   }
 }
