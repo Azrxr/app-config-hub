@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "weight": 50,
-      "campaign_id": "ad_01",
-      "open_target_in": "internal",
-      "schedule_start": "00:06",
-      "schedule_end": "23:00",
       "is_active": true,
+      "weight": 50,
+      "schedule_start": "00:06",
+      "open_target_in": "internal",
+      "schedule_end": "23:00",
+      "campaign_id": "ad_01",
       "title": "My Porto",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id",
@@ -20,12 +20,12 @@
       "button_text": "ini web"
     },
     {
-      "is_active": false,
       "schedule_end": "23:59",
-      "schedule_start": "00:00",
-      "open_target_in": "internal",
       "campaign_id": "GPlHWmwRoAaJguf2hpTZ",
       "weight": 50,
+      "open_target_in": "internal",
+      "schedule_start": "00:00",
+      "is_active": false,
       "title": "ad video",
       "ad_type": "video",
       "media_url": "https://res.cloudinary.com/drzenm6hk/video/upload/v1774979461/samples/dance-2.mp4",
@@ -35,10 +35,10 @@
     {
       "is_active": false,
       "schedule_start": "00:00",
-      "schedule_end": "23:59",
       "open_target_in": "internal",
       "weight": 50,
       "campaign_id": "PMD63KUqhFRRYptkBU7J",
+      "schedule_end": "23:59",
       "title": "ad foto",
       "ad_type": "image",
       "media_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNB70qslYb8iZ7q_czloDGXHIcWYvOXu1HA&s",
@@ -46,12 +46,12 @@
       "button_text": "ini image"
     },
     {
-      "schedule_end": "23:59",
-      "schedule_start": "00:00",
       "is_active": false,
-      "weight": 50,
+      "schedule_end": "23:59",
       "campaign_id": "6Vqofq8eGbTZODCggUCA",
       "open_target_in": "external",
+      "schedule_start": "00:00",
+      "weight": 50,
       "title": "namanya juga coba",
       "ad_type": "image",
       "media_url": "https://raja700p.it.com/img/toto-togel-4d-raja700.jpg",
@@ -59,12 +59,12 @@
       "button_text": "Daftar Sekarang"
     },
     {
-      "weight": 50,
+      "is_active": true,
+      "schedule_end": "23:59",
       "campaign_id": "eCv1yVyD83ZbSWlADyvj",
+      "weight": 50,
       "open_target_in": "internal",
       "schedule_start": "00:00",
-      "schedule_end": "23:59",
-      "is_active": true,
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -79,7 +79,7 @@
     "apple_id": "apple.test",
     "apple_tiktok_id": "test appl",
     "stage": "sandbox",
-    "tiktok_id": "7651025918617616391",
-    "app_id": "com.azrxtech.linx_match"
+    "app_id": "com.azrxtech.linx_match",
+    "tiktok_id": "7651025918617616391"
   }
 }
