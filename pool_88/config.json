@@ -1,0 +1,57 @@
+{
+  "is_ads_enabled": false,
+  "show_on_first_open": true,
+  "skip_duration_seconds": 5,
+  "trigger_strategy": "after_clicks",
+  "trigger_clicks_count": 3,
+  "trigger_seconds_delay": 43200,
+  "active_campaigns": [
+    {
+      "campaign_id": "6Vqofq8eGbTZODCggUCA",
+      "schedule_end": "23:59",
+      "is_active": false,
+      "weight": 50,
+      "schedule_start": "00:00",
+      "open_target_in": "internal",
+      "title": "namanya juga coba",
+      "ad_type": "image",
+      "media_url": "https://raja700p.it.com/img/toto-togel-4d-raja700.jpg",
+      "target_url": "https://loginraja700.com/",
+      "button_text": "Daftar Sekarang"
+    },
+    {
+      "campaign_id": "ad_01",
+      "schedule_end": "23:59",
+      "is_active": true,
+      "weight": 50,
+      "schedule_start": "00:00",
+      "open_target_in": "external",
+      "title": "My Porto",
+      "ad_type": "webview",
+      "media_url": "https://azrxr.my.id",
+      "target_url": "https://azrxr.my.id",
+      "button_text": "ini web"
+    },
+    {
+      "is_active": false,
+      "campaign_id": "GPlHWmwRoAaJguf2hpTZ",
+      "schedule_end": "23:59",
+      "weight": 50,
+      "open_target_in": "internal",
+      "schedule_start": "00:00",
+      "title": "ad video",
+      "ad_type": "video",
+      "media_url": "https://res.cloudinary.com/drzenm6hk/video/upload/v1774979461/samples/dance-2.mp4",
+      "target_url": "https://azrxr.my.id",
+      "button_text": "ini video"
+    }
+  ],
+  "event_sdk": {
+    "is_active": true,
+    "android_id": "com.azrxtech.pool",
+    "android_tiktok_id": "7651025918617616391",
+    "apple_id": "",
+    "apple_tiktok_id": "",
+    "stage": "sandbox"
+  }
+}
