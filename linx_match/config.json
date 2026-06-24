@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "weight": 50,
-      "is_active": true,
-      "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "internal",
+      "is_active": true,
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
+      "schedule_start": "00:00",
+      "weight": 50,
       "title": "Coba iklan",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id/",
@@ -22,7 +22,7 @@
   ],
   "event_sdk": {
     "is_active": true,
-    "android_id": "com.azrxtech.daxracing",
+    "android_id": "com.azrxtech.linx_match",
     "android_tiktok_id": "7651025918617616391",
     "apple_id": "",
     "apple_tiktok_id": "",
