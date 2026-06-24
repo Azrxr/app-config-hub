@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
@@ -8,11 +8,11 @@
   "active_campaigns": [
     {
       "schedule_end": "23:59",
-      "open_target_in": "internal",
+      "weight": 50,
       "is_active": true,
       "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
+      "open_target_in": "internal",
       "schedule_start": "00:00",
-      "weight": 50,
       "title": "Coba iklan",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id/",
