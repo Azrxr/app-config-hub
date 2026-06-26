@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
@@ -7,29 +7,29 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_start": "00:00",
       "is_active": false,
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "schedule_end": "23:59",
-      "weight": 50,
+      "schedule_start": "00:00",
       "open_target_in": "internal",
-      "title": "Coba iklan",
-      "ad_type": "webview",
-      "media_url": "https://azrxr.my.id/",
-      "target_url": "https://azrxr.my.id/",
-      "button_text": "Daftar Sekarang"
+      "weight": 50,
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
     },
     {
-      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
-      "weight": 50,
       "is_active": true,
       "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "internal",
+      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
+      "weight": 50,
       "title": "dari apk untuk pol",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
-      "target_url": "https://direct.lc.chat/14367996",
+      "target_url": "https://hondaserang.xyz/",
       "button_text": "Daftar Sekarang"
     }
   ],
