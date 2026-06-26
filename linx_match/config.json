@@ -20,7 +20,7 @@
       "button_text": ""
     },
     {
-      "is_active": true,
+      "is_active": false,
       "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "internal",
