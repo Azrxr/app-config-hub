@@ -1,0 +1,29 @@
+{
+  "is_ads_enabled": true,
+  "show_on_first_open": false,
+  "skip_duration_seconds": 5,
+  "trigger_strategy": "after_clicks",
+  "trigger_clicks_count": 3,
+  "trigger_seconds_delay": 43200,
+  "active_campaigns": [],
+  "event_sdk": {
+    "google": {
+      "is_active": true,
+      "is_debug_view_enabled": true
+    },
+    "meta": {
+      "is_active": true,
+      "meta_app_id": "12345",
+      "meta_test_event_code": "",
+      "stage": "production"
+    },
+    "tiktok": {
+      "is_active": true,
+      "android_id": "",
+      "android_tiktok_id": "",
+      "apple_id": "",
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
+    }
+  }
+}
