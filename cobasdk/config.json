@@ -28,8 +28,8 @@
     "meta": {
       "is_active": true,
       "meta_app_id": "12345",
-      "meta_test_event_code": "",
-      "stage": "production"
+      "meta_test_event_code": "34543coba",
+      "stage": "sandbox"
     },
     "tiktok": {
       "is_active": true,
