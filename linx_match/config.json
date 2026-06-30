@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "schedule_start": "00:00",
-      "weight": 50,
-      "is_active": false,
-      "open_target_in": "internal",
       "schedule_end": "23:59",
+      "is_active": false,
+      "schedule_start": "00:00",
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
+      "open_target_in": "internal",
+      "weight": 50,
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,12 +20,12 @@
       "button_text": ""
     },
     {
-      "schedule_end": "23:59",
-      "open_target_in": "internal",
-      "weight": 50,
-      "is_active": false,
-      "schedule_start": "00:00",
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
+      "weight": 50,
+      "open_target_in": "internal",
+      "is_active": false,
+      "schedule_end": "23:59",
+      "schedule_start": "00:00",
       "title": "dari apk untuk pol",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -33,12 +33,12 @@
       "button_text": "Daftar Sekarang"
     },
     {
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
-      "weight": 50,
-      "is_active": true,
       "schedule_start": "00:00",
       "schedule_end": "23:59",
+      "is_active": true,
+      "weight": 50,
       "open_target_in": "internal",
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "title": "nonton bola",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -47,11 +47,24 @@
     }
   ],
   "event_sdk": {
-    "is_active": true,
-    "android_id": "com.azrxtech.linx_match",
-    "android_tiktok_id": "7654995880520613906",
-    "apple_id": "",
-    "apple_tiktok_id": "",
-    "stage": "production"
+    "google": {
+      "is_active": true,
+      "is_debug_view_enabled": true,
+      "gtm_is_active": true
+    },
+    "meta": {
+      "is_active": false,
+      "meta_app_id": "",
+      "meta_test_event_code": "",
+      "stage": "sandbox"
+    },
+    "tiktok": {
+      "is_active": false,
+      "android_id": "",
+      "android_tiktok_id": "",
+      "apple_id": "",
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
+    }
   }
 }
