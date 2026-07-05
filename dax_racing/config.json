@@ -7,25 +7,38 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "is_active": true,
-      "schedule_end": "23:59",
-      "schedule_start": "00:00",
       "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "weight": 50,
+      "schedule_end": "23:59",
       "open_target_in": "internal",
-      "title": "Coba iklan",
-      "ad_type": "webview",
-      "media_url": "https://azrxr.my.id/",
-      "target_url": "https://azrxr.my.id/",
-      "button_text": "Daftar Sekarang"
+      "schedule_start": "00:00",
+      "is_active": true,
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
     }
   ],
   "event_sdk": {
-    "is_active": true,
-    "android_id": "com.azroralabs.dax69",
-    "android_tiktok_id": "7651025918617616391",
-    "apple_id": "",
-    "apple_tiktok_id": "",
-    "stage": "sandbox"
+    "google": {
+      "is_active": true,
+      "is_debug_view_enabled": true,
+      "gtm_is_active": true
+    },
+    "meta": {
+      "is_active": true,
+      "meta_app_id": "",
+      "meta_test_event_code": "",
+      "stage": "sandbox"
+    },
+    "tiktok": {
+      "is_active": true,
+      "android_id": "com.azroralabs.dax69",
+      "android_tiktok_id": "",
+      "apple_id": "",
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
+    }
   }
 }
