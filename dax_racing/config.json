@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "weight": 50,
-      "schedule_end": "23:59",
-      "open_target_in": "internal",
-      "schedule_start": "00:00",
       "is_active": true,
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "weight": 50,
+      "open_target_in": "internal",
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,11 +20,11 @@
       "button_text": ""
     },
     {
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
-      "weight": 50,
       "is_active": true,
-      "schedule_start": "00:00",
       "schedule_end": "23:59",
+      "weight": 50,
+      "schedule_start": "00:00",
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "open_target_in": "external",
       "title": "nonton bola",
       "ad_type": "image",
@@ -41,14 +41,14 @@
     },
     "meta": {
       "is_active": true,
-      "meta_app_id": "",
-      "meta_test_event_code": "",
+      "meta_app_id": "1336401601804571",
+      "meta_test_event_code": "1336401601804571",
       "stage": "sandbox"
     },
     "tiktok": {
       "is_active": true,
       "android_id": "com.azroralabs.dax69",
-      "android_tiktok_id": "",
+      "android_tiktok_id": "7654896904481406983",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
