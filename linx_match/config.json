@@ -8,11 +8,11 @@
   "active_campaigns": [
     {
       "is_active": false,
-      "open_target_in": "internal",
       "schedule_start": "00:00",
       "weight": 50,
-      "schedule_end": "23:59",
       "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
+      "open_target_in": "internal",
+      "schedule_end": "23:59",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -21,9 +21,9 @@
     },
     {
       "schedule_start": "00:00",
+      "is_active": false,
       "weight": 50,
       "open_target_in": "internal",
-      "is_active": false,
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "schedule_end": "23:59",
       "title": "dari apk untuk pol",
@@ -33,11 +33,11 @@
       "button_text": "Daftar Sekarang"
     },
     {
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "schedule_end": "23:59",
+      "open_target_in": "external",
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "weight": 100,
       "schedule_start": "00:00",
-      "open_target_in": "external",
       "is_active": true,
       "title": "nonton bola",
       "ad_type": "image",
@@ -54,13 +54,13 @@
     },
     "meta": {
       "is_active": true,
-      "meta_app_id": "",
-      "meta_client_token": ""
+      "meta_app_id": "1336401601804571",
+      "meta_client_token": "a5a60c2e6ab81089e560edf2e734539b"
     },
     "tiktok": {
       "is_active": true,
-      "android_id": "",
-      "android_tiktok_id": "",
+      "android_id": "com.azrxtech.linx_match",
+      "android_tiktok_id": "7654896904481406983",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
