@@ -36,7 +36,7 @@
   "event_sdk": {
     "google": {
       "is_active": true,
-      "is_debug_view_enabled": true,
+      "is_debug_view_enabled": false,
       "gtm_is_active": true
     },
     "meta": {
@@ -50,7 +50,7 @@
       "android_tiktok_id": "7654896904481406983",
       "apple_id": "",
       "apple_tiktok_id": "",
-      "stage": "sandbox"
+      "stage": "production"
     }
   }
 }
