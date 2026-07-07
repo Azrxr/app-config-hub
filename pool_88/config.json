@@ -7,17 +7,30 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
+      "schedule_end": "23:59",
       "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "is_active": true,
-      "schedule_end": "23:59",
       "open_target_in": "internal",
-      "weight": 50,
       "schedule_start": "00:00",
+      "weight": 50,
       "title": "",
       "ad_type": "",
       "media_url": "",
       "target_url": "",
       "button_text": ""
+    },
+    {
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
+      "weight": 100,
+      "is_active": true,
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "title": "nonton bola",
+      "ad_type": "image",
+      "media_url": "https://raja700cik.us.com/bannerdaftar.png",
+      "target_url": "https://hondaserang.xyz/",
+      "button_text": "NONTON BOLA GRATIS"
     }
   ],
   "event_sdk": {
