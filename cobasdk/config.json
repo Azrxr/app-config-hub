@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
-      "schedule_end": "23:59",
       "is_active": true,
-      "weight": 50,
       "schedule_start": "00:00",
+      "schedule_end": "23:59",
       "open_target_in": "internal",
+      "weight": 50,
+      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "title": "dari apk untuk pol",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -29,8 +29,7 @@
     "meta": {
       "is_active": true,
       "meta_app_id": "12345",
-      "meta_test_event_code": "34543coba",
-      "stage": "sandbox"
+      "meta_client_token": "12345test"
     },
     "tiktok": {
       "is_active": true,
