@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "is_active": true,
       "schedule_start": "00:00",
       "schedule_end": "23:59",
       "weight": 50,
       "open_target_in": "internal",
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,12 +20,12 @@
       "button_text": ""
     },
     {
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "is_active": true,
+      "schedule_start": "00:00",
+      "open_target_in": "external",
       "schedule_end": "23:59",
       "weight": 50,
-      "schedule_start": "00:00",
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
-      "open_target_in": "external",
       "title": "nonton bola",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -42,8 +42,7 @@
     "meta": {
       "is_active": true,
       "meta_app_id": "1336401601804571",
-      "meta_test_event_code": "1336401601804571",
-      "stage": "sandbox"
+      "meta_client_token": "a5a60c2e6ab81089e560edf2e734539b"
     },
     "tiktok": {
       "is_active": true,
