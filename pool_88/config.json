@@ -1,6 +1,6 @@
 {
-  "is_ads_enabled": true,
-  "show_on_first_open": true,
+  "is_ads_enabled": false,
+  "show_on_first_open": false,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 300,
