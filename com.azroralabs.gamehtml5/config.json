@@ -1,17 +1,30 @@
 {
   "is_ads_enabled": true,
-  "show_on_first_open": false,
+  "show_on_first_open": true,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 3,
   "trigger_seconds_delay": 43200,
-  "active_campaigns": [],
-  "title": "Game HTML5",
+  "active_campaigns": [
+    {
+      "campaign_id": "D8OVlmZtm4wAhcareif3",
+      "weight": 70,
+      "is_active": true,
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "title": "MyPorto",
+      "ad_type": "webview",
+      "media_url": "https://azrxr.my.id",
+      "target_url": "https://azrxr.my.id",
+      "button_text": "Azrxr"
+    }
+  ],
   "event_sdk": {
     "google": {
-      "is_active": false,
+      "is_active": true,
       "is_debug_view_enabled": true,
-      "gtm_is_active": false
+      "gtm_is_active": true
     },
     "meta": {
       "is_active": false,
@@ -19,13 +32,14 @@
       "meta_client_token": ""
     },
     "tiktok": {
-      "is_active": false,
-      "android_id": "",
-      "android_tiktok_id": "",
+      "is_active": true,
+      "android_id": "com.azroralabs.gamehtml5",
+      "android_tiktok_id": "7654896904481406983",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
   },
-  "icon_url": "https://img-c.udemycdn.com/course/480x270/6407573_9fa0_2.jpg?w=3840&q=75"
+  "icon_url": "https://img-c.udemycdn.com/course/480x270/6407573_9fa0_2.jpg?w=3840&q=75",
+  "title": "Game HTML5"
 }
