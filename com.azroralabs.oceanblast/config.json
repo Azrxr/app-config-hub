@@ -1,0 +1,44 @@
+{
+  "is_ads_enabled": true,
+  "show_on_first_open": true,
+  "skip_duration_seconds": 5,
+  "trigger_strategy": "after_clicks",
+  "trigger_clicks_count": 301,
+  "trigger_seconds_delay": 43200,
+  "active_campaigns": [
+    {
+      "campaign_id": "D8OVlmZtm4wAhcareif3",
+      "weight": 50,
+      "is_active": true,
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "title": "MyPorto",
+      "ad_type": "webview",
+      "media_url": "https://azrxr.my.id",
+      "target_url": "https://azrxr.my.id",
+      "button_text": "Azrxr"
+    }
+  ],
+  "title": "Ocean Blast",
+  "event_sdk": {
+    "google": {
+      "is_active": true,
+      "is_debug_view_enabled": false,
+      "gtm_is_active": true
+    },
+    "meta": {
+      "is_active": false,
+      "meta_app_id": "",
+      "meta_client_token": ""
+    },
+    "tiktok": {
+      "is_active": false,
+      "android_id": "",
+      "android_tiktok_id": "",
+      "apple_id": "",
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
+    }
+  }
+}
