@@ -1,18 +1,18 @@
 {
-  "is_ads_enabled": true,
-  "show_on_first_open": true,
+  "is_ads_enabled": false,
+  "show_on_first_open": false,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 301,
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "open_target_in": "internal",
-      "schedule_end": "23:59",
-      "schedule_start": "00:00",
-      "is_active": true,
       "campaign_id": "D8OVlmZtm4wAhcareif3",
       "weight": 50,
+      "schedule_start": "00:00",
+      "open_target_in": "internal",
+      "is_active": true,
+      "schedule_end": "23:59",
       "title": "MyPorto",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id",
@@ -20,6 +20,7 @@
       "button_text": "Azrxr"
     }
   ],
+  "icon_url": "https://res.cloudinary.com/drzenm6hk/image/upload/v1783741247/ocean_blast.png",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -40,6 +41,5 @@
       "stage": "sandbox"
     }
   },
-  "title": "Ocean Blast",
-  "icon_url": "https://res.cloudinary.com/drzenm6hk/image/upload/v1783741247/ocean_blast.png"
+  "title": "Ocean Blast"
 }
