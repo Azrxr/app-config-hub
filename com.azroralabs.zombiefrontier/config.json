@@ -7,11 +7,11 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_start": "00:00",
       "weight": 50,
+      "campaign_id": "D8OVlmZtm4wAhcareif3",
       "schedule_end": "23:59",
       "is_active": true,
-      "campaign_id": "D8OVlmZtm4wAhcareif3",
+      "schedule_start": "00:00",
       "open_target_in": "internal",
       "title": "MyPorto",
       "ad_type": "webview",
@@ -40,5 +40,6 @@
       "stage": "sandbox"
     }
   },
-  "title": "Zombie Frontier"
+  "title": "Zombie Frontier",
+  "icon_url": "https://res.cloudinary.com/drzenm6hk/image/upload/v1783727937/Tanpa_judul_-_10_Juli_2026_pukul_13.24.47-1_1_ovyqcw.png"
 }
