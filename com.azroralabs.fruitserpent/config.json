@@ -1,18 +1,18 @@
 {
-  "is_ads_enabled": true,
-  "show_on_first_open": true,
+  "is_ads_enabled": false,
+  "show_on_first_open": false,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 3,
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "campaign_id": "D8OVlmZtm4wAhcareif3",
+      "open_target_in": "internal",
+      "schedule_end": "23:59",
       "is_active": true,
       "weight": 50,
+      "campaign_id": "D8OVlmZtm4wAhcareif3",
       "schedule_start": "00:00",
-      "schedule_end": "23:59",
-      "open_target_in": "internal",
       "title": "MyPorto",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id",
@@ -20,10 +20,11 @@
       "button_text": "Azrxr"
     }
   ],
+  "icon_url": "https://res.cloudinary.com/drzenm6hk/image/upload/v1783854352/fruitSrepent_je2ztt.png",
   "event_sdk": {
     "google": {
       "is_active": true,
-      "is_debug_view_enabled": true,
+      "is_debug_view_enabled": false,
       "gtm_is_active": true
     },
     "meta": {
@@ -40,6 +41,5 @@
       "stage": "sandbox"
     }
   },
-  "title": "Fruit Serpent",
-  "icon_url": "https://res.cloudinary.com/drzenm6hk/image/upload/v1783854352/fruitSrepent_je2ztt.png"
+  "title": "Fruit Serpent"
 }
