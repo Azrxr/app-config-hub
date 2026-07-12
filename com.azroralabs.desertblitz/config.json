@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "campaign_id": "D8OVlmZtm4wAhcareif3",
-      "weight": 50,
+      "open_target_in": "internal",
       "is_active": true,
       "schedule_start": "00:00",
+      "campaign_id": "D8OVlmZtm4wAhcareif3",
       "schedule_end": "23:59",
-      "open_target_in": "internal",
+      "weight": 50,
       "title": "MyPorto",
       "ad_type": "webview",
       "media_url": "https://azrxr.my.id",
@@ -20,7 +20,6 @@
       "button_text": "Azrxr"
     }
   ],
-  "title": "Desert Blitz",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -40,5 +39,7 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  }
+  },
+  "title": "Desert Blitz",
+  "icon_url": "https://res.cloudinary.com/drzenm6hk/image/upload/v1783854386/desertBlitz_eqtqgu.png"
 }
