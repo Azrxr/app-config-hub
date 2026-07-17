@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
+      "is_active": false,
+      "schedule_start": "00:00",
       "open_target_in": "internal",
       "schedule_end": "23:59",
       "weight": 50,
       "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "schedule_start": "00:00",
-      "is_active": false,
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,12 +20,12 @@
       "button_text": ""
     },
     {
-      "open_target_in": "internal",
-      "schedule_end": "23:59",
-      "is_active": false,
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "weight": 50,
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
       "schedule_start": "00:00",
+      "is_active": false,
       "title": "dari apk untuk pol",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -33,19 +33,33 @@
       "button_text": "Daftar Sekarang"
     },
     {
-      "open_target_in": "external",
-      "schedule_end": "23:59",
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "weight": 100,
-      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "open_target_in": "external",
       "is_active": true,
+      "schedule_start": "00:00",
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "title": "nonton bola",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
       "target_url": "https://hondaserang.xyz/",
       "button_text": "NONTON BOLA GRATIS"
+    },
+    {
+      "campaign_id": "t5xAVt2SUN8wwCAWvghv",
+      "weight": 50,
+      "is_active": true,
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "title": "coba coba",
+      "ad_type": "image",
+      "media_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFeZ8CrRGld6kgRkJW3aoPmE4B0w-Ia7snrSV3EGpHg&s",
+      "target_url": "https://keren777super.com/",
+      "button_text": "Daftar Sekarang"
     }
   ],
+  "title": "Linx Match",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -65,6 +79,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "Linx Match"
+  }
 }
