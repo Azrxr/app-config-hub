@@ -21,7 +21,7 @@
     },
     {
       "schedule_start": "00:00",
-      "is_active": true,
+      "is_active": false,
       "open_target_in": "internal",
       "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "schedule_end": "23:59",
