@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "is_active": true,
-      "schedule_start": "00:00",
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "open_target_in": "internal",
       "schedule_end": "23:59",
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
       "weight": 50,
+      "schedule_start": "00:00",
+      "is_active": true,
+      "open_target_in": "internal",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,12 +20,12 @@
       "button_text": ""
     },
     {
+      "schedule_start": "00:00",
+      "is_active": true,
       "open_target_in": "internal",
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "schedule_end": "23:59",
       "weight": 100,
-      "is_active": true,
-      "schedule_start": "00:00",
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "title": "nonton bola",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -47,7 +47,7 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.azrxtech.pool88",
-      "android_tiktok_id": "7664699325771055125",
+      "android_tiktok_id": "7665655229764894740",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "production"
