@@ -7,19 +7,6 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "weight": 50,
-      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "schedule_end": "23:59",
-      "open_target_in": "internal",
-      "is_active": false,
-      "schedule_start": "00:00",
-      "title": "",
-      "ad_type": "",
-      "media_url": "",
-      "target_url": "",
-      "button_text": ""
-    },
-    {
       "schedule_end": "23:59",
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "weight": 50,
@@ -45,19 +32,6 @@
       "target_url": "https://hondaserang.xyz/",
       "button_text": "NONTON BOLA GRATIS"
     },
-    {
-      "open_target_in": "internal",
-      "is_active": true,
-      "schedule_start": "00:00",
-      "weight": 50,
-      "campaign_id": "t5xAVt2SUN8wwCAWvghv",
-      "schedule_end": "23:59",
-      "title": "",
-      "ad_type": "",
-      "media_url": "",
-      "target_url": "",
-      "button_text": ""
-    }
   ],
   "title": "Linx Match",
   "event_sdk": {
