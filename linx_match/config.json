@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_start": "00:00",
+      "weight": 50,
       "open_target_in": "internal",
       "schedule_end": "23:59",
       "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
-      "weight": 50,
       "is_active": false,
+      "schedule_start": "00:00",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,12 +20,12 @@
       "button_text": ""
     },
     {
+      "weight": 50,
       "open_target_in": "internal",
+      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "schedule_end": "23:59",
       "schedule_start": "00:00",
       "is_active": false,
-      "weight": 50,
-      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "title": "dari apk untuk pol",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -33,25 +33,12 @@
       "button_text": "Daftar Sekarang"
     },
     {
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
-      "weight": 100,
       "is_active": false,
       "schedule_start": "00:00",
+      "weight": 100,
       "open_target_in": "external",
       "schedule_end": "23:59",
-      "title": "nonton bola",
-      "ad_type": "image",
-      "media_url": "https://raja700cik.us.com/bannerdaftar.png",
-      "target_url": "https://hondaserang.xyz/",
-      "button_text": "NONTON BOLA GRATIS"
-    },
-    {
-      "open_target_in": "internal",
-      "schedule_end": "23:59",
-      "schedule_start": "00:00",
-      "is_active": true,
-      "weight": 50,
-      "campaign_id": "t5xAVt2SUN8wwCAWvghv",
+      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -60,16 +47,29 @@
     },
     {
       "schedule_start": "00:00",
+      "is_active": true,
+      "campaign_id": "t5xAVt2SUN8wwCAWvghv",
+      "schedule_end": "23:59",
       "open_target_in": "internal",
+      "weight": 50,
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
+    },
+    {
       "schedule_end": "23:59",
       "campaign_id": "8DEiuXYfd7NYXE4JgmyK",
       "weight": 50,
+      "open_target_in": "internal",
       "is_active": false,
-      "title": "coba yes77",
-      "ad_type": "image",
-      "media_url": "https://pramlui.ahhouseclean87.live/img/slotovoYes.jpeg",
-      "target_url": "https://pramlui.ahhouseclean87.live/",
-      "button_text": "Daftar Sekarang"
+      "schedule_start": "00:00",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
     }
   ],
   "title": "Linx Match",
@@ -87,7 +87,7 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.azrxtech.linx_match",
-      "android_tiktok_id": "7666924969860808724",
+      "android_tiktok_id": "7666924922794524693",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
