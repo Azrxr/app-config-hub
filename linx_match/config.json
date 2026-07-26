@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": false,
+  "is_ads_enabled": true,
   "show_on_first_open": false,
   "skip_duration_seconds": 5,
   "trigger_strategy": "after_clicks",
@@ -7,12 +7,25 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
+      "open_target_in": "internal",
+      "is_active": false,
+      "schedule_start": "00:00",
+      "weight": 50,
+      "schedule_end": "23:59",
+      "campaign_id": "Y8z5Y3jRRSx8aLkDr9Xl",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
+    },
+    {
+      "open_target_in": "internal",
+      "is_active": false,
+      "schedule_start": "00:00",
+      "weight": 50,
       "schedule_end": "23:59",
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
-      "weight": 50,
-      "schedule_start": "00:00",
-      "is_active": false,
-      "open_target_in": "internal",
       "title": "dari apk untuk pol",
       "ad_type": "image",
       "media_url": "https://raja700cik.us.com/bannerdaftar.png",
@@ -32,6 +45,19 @@
       "target_url": "https://hondaserang.xyz/",
       "button_text": "NONTON BOLA GRATIS"
     },
+    {
+      "schedule_end": "23:59",
+      "campaign_id": "t5xAVt2SUN8wwCAWvghv",
+      "weight": 50,
+      "schedule_start": "00:00",
+      "open_target_in": "internal",
+      "is_active": true,
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
+    }
   ],
   "title": "Linx Match",
   "event_sdk": {
@@ -48,7 +74,7 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.azrxtech.linx_match",
-      "android_tiktok_id": "7654896904481406983",
+      "android_tiktok_id": "7666861561025396743",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
