@@ -9,9 +9,9 @@
   "title": "Mahjong Ways",
   "event_sdk": {
     "google": {
-      "is_active": false,
-      "is_debug_view_enabled": true,
-      "gtm_is_active": false
+      "is_active": true,
+      "is_debug_view_enabled": false,
+      "gtm_is_active": true
     },
     "meta": {
       "is_active": false,
@@ -19,8 +19,8 @@
       "meta_client_token": ""
     },
     "tiktok": {
-      "is_active": false,
-      "android_id": "",
+      "is_active": true,
+      "android_id": "com.poldax.mahjong",
       "android_tiktok_id": "",
       "apple_id": "",
       "apple_tiktok_id": "",
