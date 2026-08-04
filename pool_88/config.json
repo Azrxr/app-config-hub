@@ -5,21 +5,7 @@
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 300,
   "trigger_seconds_delay": 43200,
-  "active_campaigns": [
-    {
-      "schedule_start": "00:00",
-      "is_active": false,
-      "open_target_in": "internal",
-      "campaign_id": "9IkFfaosvtj0sRoOqA7N",
-      "schedule_end": "23:59",
-      "weight": 100,
-      "title": "nonton bola",
-      "ad_type": "image",
-      "media_url": "https://raja700cik.us.com/bannerdaftar.png",
-      "target_url": "https://hondaserang.xyz/",
-      "button_text": "NONTON BOLA GRATIS"
-    }
-  ],
+  "active_campaigns": [],
   "event_sdk": {
     "google": {
       "is_active": true,
