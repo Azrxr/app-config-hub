@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_start": "00:00",
-      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "schedule_end": "23:59",
-      "open_target_in": "external",
-      "is_active": true,
+      "schedule_start": "00:00",
       "weight": 50,
+      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
+      "is_active": true,
+      "open_target_in": "external",
       "title": "dari apk untuk pol",
       "ad_type": "webview",
       "media_url": "https://hondaserang.xyz/",
@@ -34,7 +34,7 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.azrxtech.pool88",
-      "android_tiktok_id": "7672747172053958676",
+      "android_tiktok_id": "7673489650115198996",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "production"
