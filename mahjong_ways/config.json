@@ -8,10 +8,10 @@
   "active_campaigns": [
     {
       "is_active": true,
-      "weight": 50,
       "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "external",
+      "weight": 50,
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "title": "",
       "ad_type": "",
@@ -21,18 +21,32 @@
     },
     {
       "campaign_id": "rp9cKszfOXRXrtNU0XvT",
+      "is_active": true,
+      "weight": 50,
+      "schedule_start": "00:00",
+      "open_target_in": "internal",
+      "schedule_end": "23:59",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
+    },
+    {
+      "campaign_id": "fACPHLMfeIhTXfsreboq",
       "weight": 50,
       "is_active": true,
       "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "internal",
-      "title": "new coba",
-      "ad_type": "image",
-      "media_url": "https://keropi21.xyz/Polbanner/DISINIAJA.jpeg",
-      "target_url": "https://bombayhouserestaurant.com/ads/register/201385522",
+      "title": "APK DAX",
+      "ad_type": "video",
+      "media_url": "https://keropi21.xyz/polvideo/metode4.mp4",
+      "target_url": "https://bandarlampung.rajasepatudul.shop/",
       "button_text": "Daftar Sekarang"
     }
   ],
+  "title": "Mahjong Ways",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -52,6 +66,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "Mahjong Ways"
+  }
 }
