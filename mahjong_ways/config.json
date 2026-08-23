@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 15,
   "trigger_strategy": "after_clicks",
@@ -8,19 +8,31 @@
   "active_campaigns": [
     {
       "is_active": true,
+      "weight": 50,
+      "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "external",
-      "weight": 50,
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
+    },
+    {
+      "campaign_id": "rp9cKszfOXRXrtNU0XvT",
+      "weight": 50,
+      "is_active": true,
       "schedule_start": "00:00",
-      "title": "dari apk untuk pol",
-      "ad_type": "webview",
-      "media_url": "https://hondaserang.xyz/",
-      "target_url": "https://hondaserang.xyz/",
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "title": "new coba",
+      "ad_type": "image",
+      "media_url": "https://keropi21.xyz/Polbanner/DISINIAJA.jpeg",
+      "target_url": "https://bombayhouserestaurant.com/ads/register/201385522",
       "button_text": "Daftar Sekarang"
     }
   ],
-  "title": "Mahjong Ways",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -40,5 +52,6 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  }
+  },
+  "title": "Mahjong Ways"
 }
