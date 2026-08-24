@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_end": "23:59",
-      "is_active": true,
-      "open_target_in": "external",
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
-      "schedule_start": "00:00",
+      "is_active": true,
       "weight": 50,
+      "open_target_in": "external",
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -20,17 +20,17 @@
       "button_text": ""
     },
     {
-      "campaign_id": "rp9cKszfOXRXrtNU0XvT",
-      "weight": 50,
-      "is_active": true,
       "schedule_start": "00:00",
+      "is_active": true,
       "schedule_end": "23:59",
+      "weight": 50,
       "open_target_in": "internal",
-      "title": "new coba",
-      "ad_type": "image",
-      "media_url": "https://keropi21.xyz/Polbanner/DISINIAJA.jpeg",
-      "target_url": "https://bombayhouserestaurant.com/ads/register/201385522",
-      "button_text": "Daftar Sekarang"
+      "campaign_id": "rp9cKszfOXRXrtNU0XvT",
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
     }
   ],
   "event_sdk": {
@@ -47,7 +47,7 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.azrxtech.linx_match",
-      "android_tiktok_id": "7672725223736705031",
+      "android_tiktok_id": "7677495073298333717",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
