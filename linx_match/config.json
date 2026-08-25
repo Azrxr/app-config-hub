@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 43200,
   "active_campaigns": [
     {
-      "schedule_start": "00:00",
-      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
-      "weight": 50,
       "open_target_in": "external",
       "schedule_end": "23:59",
+      "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
+      "weight": 50,
       "is_active": true,
+      "schedule_start": "00:00",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -21,10 +21,10 @@
     },
     {
       "weight": 50,
+      "is_active": true,
+      "open_target_in": "internal",
       "campaign_id": "rp9cKszfOXRXrtNU0XvT",
       "schedule_end": "23:59",
-      "open_target_in": "internal",
-      "is_active": true,
       "schedule_start": "00:00",
       "title": "",
       "ad_type": "",
@@ -33,12 +33,12 @@
       "button_text": ""
     },
     {
-      "campaign_id": "DHbB8PWVWJlroifIJCNE",
-      "weight": 50,
-      "is_active": true,
-      "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "internal",
+      "is_active": true,
+      "weight": 50,
+      "campaign_id": "DHbB8PWVWJlroifIJCNE",
+      "schedule_start": "00:00",
       "title": "BISA SEMOGA",
       "ad_type": "image",
       "media_url": "https://keropi21.xyz/Polbanner/masuk.jpeg",
@@ -46,7 +46,6 @@
       "button_text": "Daftar Sekarang"
     }
   ],
-  "title": "Linx Match",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -61,10 +60,11 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.azrxtech.linx_match",
-      "android_tiktok_id": "7677498344261369863",
+      "android_tiktok_id": "7677890595880321045",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  }
+  },
+  "title": "Linx Match"
 }
