@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": false,
+  "is_ads_enabled": true,
   "show_on_first_open": true,
   "skip_duration_seconds": 15,
   "trigger_strategy": "after_clicks",
@@ -39,14 +39,13 @@
       "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "internal",
-      "title": "APK DAX",
-      "ad_type": "video",
-      "media_url": "https://keropi21.xyz/polvideo/metode4.mp4",
-      "target_url": "https://bandarlampung.rajasepatudul.shop/",
-      "button_text": "Daftar Sekarang"
+      "title": "",
+      "ad_type": "",
+      "media_url": "",
+      "target_url": "",
+      "button_text": ""
     }
   ],
-  "title": "Mahjong Ways",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -61,10 +60,11 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.poldax.mahjong",
-      "android_tiktok_id": "7673480132270637074",
+      "android_tiktok_id": "7678987404346179605",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  }
+  },
+  "title": "Mahjong Ways"
 }
