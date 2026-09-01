@@ -1,0 +1,30 @@
+{
+  "is_ads_enabled": true,
+  "show_on_first_open": true,
+  "skip_duration_seconds": 5,
+  "trigger_strategy": "after_clicks",
+  "trigger_clicks_count": 800,
+  "trigger_seconds_delay": 43200,
+  "active_campaigns": [],
+  "title": "kalku warung",
+  "event_sdk": {
+    "google": {
+      "is_active": true,
+      "is_debug_view_enabled": true,
+      "gtm_is_active": true
+    },
+    "meta": {
+      "is_active": true,
+      "meta_app_id": "",
+      "meta_client_token": ""
+    },
+    "tiktok": {
+      "is_active": true,
+      "android_id": "com.podlax.kalkuwarung",
+      "android_tiktok_id": "7680513764835262482",
+      "apple_id": "",
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
+    }
+  }
+}
