@@ -9,9 +9,9 @@
     {
       "is_active": true,
       "schedule_start": "00:00",
-      "schedule_end": "23:59",
       "open_target_in": "external",
       "weight": 50,
+      "schedule_end": "23:59",
       "campaign_id": "pBhkXsus9Mk5Ir1zV1k6",
       "title": "",
       "ad_type": "",
@@ -20,12 +20,12 @@
       "button_text": ""
     },
     {
-      "campaign_id": "rp9cKszfOXRXrtNU0XvT",
       "is_active": true,
       "weight": 50,
-      "schedule_start": "00:00",
-      "open_target_in": "internal",
       "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "schedule_start": "00:00",
+      "campaign_id": "rp9cKszfOXRXrtNU0XvT",
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -34,11 +34,11 @@
     },
     {
       "campaign_id": "fACPHLMfeIhTXfsreboq",
-      "weight": 50,
-      "is_active": true,
-      "schedule_start": "00:00",
       "schedule_end": "23:59",
+      "weight": 50,
       "open_target_in": "internal",
+      "schedule_start": "00:00",
+      "is_active": true,
       "title": "",
       "ad_type": "",
       "media_url": "",
@@ -46,6 +46,7 @@
       "button_text": ""
     }
   ],
+  "title": "Mahjong Ways",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -60,11 +61,10 @@
     "tiktok": {
       "is_active": true,
       "android_id": "com.poldax.mahjong",
-      "android_tiktok_id": "7678987404346179605",
+      "android_tiktok_id": "7694396934651527189",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "Mahjong Ways"
+  }
 }
